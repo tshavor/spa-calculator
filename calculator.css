@@ -1,0 +1,7 @@
+/*Styles applied to the div containing the output from the calculations...*/
+#display-output {
+	border-style: solid;
+	border-color: black, 1px;
+	
+}
+
